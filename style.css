@@ -1,0 +1,277 @@
+body{
+ background-color: whitesmoke;
+}
+h3{
+    text-align: center;
+    background-color: royalblue;
+    height: 50px;
+    color: aliceblue;
+    padding-top: 30px;
+     
+}
+ button{
+   height: 35px;
+   align-items: inherit;
+   text-align: right;
+   cursor: pointer;
+ }
+ .insta{
+   width: 25px;
+   margin-right: 08px;
+   cursor: pointer;
+ }
+ .fbook{
+  width: 25px; 
+  margin-right: 5px;
+  cursor: pointer;
+ }
+ .ytube{
+  width: 31px;  
+  margin-right: 50px;
+  cursor: pointer;
+ }
+ .twitter{
+  width: 25px; 
+  margin-right: 10px;
+  cursor: pointer;
+ }
+ .twitter1{
+  width: 25px; 
+  margin-right: 20px;
+  cursor: pointer;
+ }
+ .img1{
+   height: 96px;
+   width: 340px;
+   cursor: pointer;
+ }
+  /* #btn {
+   float: right;
+   margin-right: 940px;
+   background-color: royalblue;
+   border-radius: 17px;
+   width: 75px;
+   height: 32px;
+   font-size: 17px;
+   text-align: center;
+   color: white;
+   cursor: pointer; 
+   padding-top: 12px;
+ 
+ }  */
+#about{
+  margin-left: 420px;
+  color: black;
+  position: relative;
+}
+#con{
+margin-left: 10px;
+font-size: 20px;
+}
+#con:hover{
+  background-color: royalblue;
+  border-radius: 17px;
+  cursor: pointer;  border-style: groove; font-size: 25px;
+}
+#don{
+  margin-left: 10px;font-size: 20px;
+}
+#don:hover{
+  background-color:blue;
+  border-radius: 17px;
+  cursor: pointer;  border-style: groove;
+  font-size: 25px;
+}
+#news{
+  margin-left: 10px; 
+  font-size: 20px;
+  
+}#news:hover{
+  background-color: royalblue;
+  border-radius: 17px;
+  cursor: pointer;  border-style: groove; font-size: 25px;
+}
+
+#med{
+  margin-left: 10px; 
+  font-size: 20px;
+  
+}#med:hover{
+  background-color: royalblue;
+  border-radius: 17px;
+  cursor: pointer;  border-style: groove;  font-size: 25px;
+}
+
+#pro{
+  margin-left: 20px; 
+  font-size: 20px;
+  
+}#pro:hover{
+  background-color: royalblue;
+  border-radius: 17px;
+  cursor: pointer;  border-style: groove; font-size: 25px;
+}
+
+#say{
+  margin-left: 20px; 
+  font-size: 20px;
+ 
+}#say:hover{
+  background-color: royalblue;
+  border-radius: 17px;
+  cursor: pointer;  border-style: groove;  font-size: 25px;
+}
+
+#about:hover{
+  background-color: royalblue;
+  border-radius: 17px;
+  cursor: pointer; 
+  border-style: groove; font-size: 25px;
+}
+ 
+#image{
+  width: 1340px; height: 550px; vertical-align: text-top; padding-top: 20px;
+}
+h4{
+   text-align: center;
+   background-color: royalblue;
+   height: 40px;
+   padding-left: 100px;
+   margin-top: 20px;
+   padding-top: 20px;
+   font-size: 20px; padding-right: 100px;
+}
+h1{
+  color: blue; text-align: center;
+  padding-top: 20px;
+}
+.blue{
+  background-color: royalblue;
+  height: 380px;
+}
+#fork{
+  width: 40px;
+  height: 35px;
+  padding-left: 170px;
+  padding-top: 100px;
+
+}
+
+/* .im{
+  width:40px; 
+  height:40px;
+  padding-left: 640px;
+  padding-bottom: 60px;
+  border-radius: 50%;
+} */
+.im{
+  width: 90px;
+  height: 60px;
+  background-size: cover;
+  display: block;padding-left: 640px;
+  padding-bottom: 60px;  
+}
+#div5{
+  width: 200px;  height: 220px;
+  background-color: white; padding-bottom: 20px;
+  padding-right: 180px; box-shadow: 10px  ;
+  margin-left: 50px;margin-right: 70px;
+  border: 1px solid ;
+  box-shadow: 5px 6px 5px 6px #808080
+}
+#div6{
+  width: 200px;  height: 220px;
+  background-color: white; padding-bottom: 20px;
+  padding-right: 180px; box-shadow: 10px  ;
+  margin-left: 50px;margin-right: 70px;
+  border: 1px solid ;
+  box-shadow: 5px 6px 5px 6px #808080
+}
+#div7{
+  width: 200px;  height: 220px;
+  background-color: white; padding-bottom: 20px;
+  padding-right: 180px; box-shadow: 10px  ;
+  margin-left: 470px;margin-right: 70px;
+  border: 1px solid; margin-top: -530px; 
+  box-shadow: 5px 6px 5px 6px #808080
+}
+#vote{
+   width: 80px;
+   padding-left: 150px ;
+   padding-top: 40px;
+
+}#div8{
+  width: 200px;  height: 220px;
+  background-color: white; padding-bottom: 20px;
+  padding-right: 180px; box-shadow: 10px  ;
+  margin-left: 900px;margin-right:100x;
+  border: 1px solid; margin-top: 18px; 
+  box-shadow: 5px 6px 5px 6px #808080
+}#div9{
+  width: 200px;  height: 220px;
+  background-color: white; padding-bottom: 20px;
+  padding-right: 180px; box-shadow: 10px  ;
+  margin-left: 470px;margin-right:100x;
+  border: 1px solid; margin-top: -240px; 
+  box-shadow: 5px 6px 5px 6px #808080
+}#div10{
+  width: 200px;  height: 220px;
+  background-color: white; padding-bottom: 20px;
+  padding-right: 180px; box-shadow: 10px  ;
+  margin-left: 899px;margin-right:100x;
+  border: 1px solid; margin-top: -504px; 
+  box-shadow: 5px 6px 5px 6px #808080
+}
+
+#center{
+  color: paleturquoise;
+}
+
+.classs{
+  background-color: white; 
+  margin-top: 400px; height: 450px; 
+  font-size: 14px; padding-top: 30px;
+   text-align: left; padding-right: 600px;
+}
+.gallery{
+
+  background-color: white;
+  height: 700px;
+  padding-top: 20px;
+}
+
+#ok{
+  text-align: center;
+  padding-left: 620px;
+
+}
+#fb{
+  width:40px; 
+padding-bottom:40px; 
+cursor: pointer;
+height: 40px; margin-left: 1000px;
+}
+
+#twi{
+  width:40px;
+   padding-bottom:40px ;
+   height: 40px; cursor: pointer;
+}
+
+
+#insta {
+  width:40px; 
+  padding-bottom:40px ; 
+  height: 40px; cursor: pointer;
+}
+#youtube{
+width:40px; 
+padding-bottom:40px ; 
+height: 40px;
+cursor: pointer;
+}
+
+
+
+
+
